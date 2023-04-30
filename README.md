@@ -2,7 +2,7 @@
 Analysis on Netflix Shows
 
 
-########### Step 1.1 ############################################################
+#################################### Step 1.1 ####################################
 
 # Web scraping- Customer Reviews
 # Notebook Name: WDA Project Web Scraping.ipynb (Python Notebook Execution)
@@ -15,7 +15,7 @@ Procedure:
 
 Output file- RottenTomatoesReviews.csv
 
-########### Step 1.2 ############################################################
+#################################### Step 1.2 ####################################
 
 # Obtaining Customer Sentiment from the reviews
 # Notebook Name: Project Sentiment Analysis.ipynb
@@ -25,7 +25,7 @@ Procedure:
 1. Run the file to obtain sentiment analysis output file- sentimentanalysis.csv
 
 
-######################## Step 1.3 ###################################################
+#################################### Step 1.3 ####################################
 # Obtaining Customer Sentiment for each content
 # Pre-required Dataset- sentimentanalysis.csv
 
@@ -39,7 +39,7 @@ Procedure:
 
 Output File- sentimentanalysis.xlsx 
 
-########### Step 2.1 ############################################################
+#################################### Step 2.1 ####################################
 
 # Obtaining Rotten tomatoes score and user ratings from rotten tomato
 # Notebook Name: Rotten Tomatoes Scrapper.ipynb
@@ -50,7 +50,7 @@ Output File- sentimentanalysis.xlsx
 Procedure:
 1. Run the file to obtain sentiment analysis output file- final_netflix.csv
 
-########### Step 3 ##########################################################################################################
+#################################### Step 3 ####################################
 
 # Analysis and Dataset Building
 # Notebook Name: WDA_Final_Project_Regression.ipynb (Python Notebook Execution)
@@ -71,7 +71,7 @@ Procedure:
 Output files(csv) - 
 Regression_Dataset.csv, Competitor_Data.csv, seasons_distribution.csv
 
-########### Step 4 #############################################################################################################
+#################################### Step 4 ####################################
 
 # T-Tests and Regression Results 
 Regression-Model.R (R-File)
